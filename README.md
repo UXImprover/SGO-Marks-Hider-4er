@@ -20,7 +20,7 @@
 
 ## 🌐 Works on
 
-- `https://netschool.edu22.info/app/school/studentdiary/`
+- `https://netschool.edu22.info/*`
 
 ---
 

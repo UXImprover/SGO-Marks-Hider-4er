@@ -1,39 +1,37 @@
 # 🛡️ FSGO-Marks-Hider-4er
 
-💯 Tampermonkey-скрипт для Сетевого Городка (СГО), который:
-- 🔕 Скрывает двойки (2)
-- ✏️ Превращает тройки (3) в четвёрки (4) — даже в модалках!
-- 🧠 Работает автоматически — без нажатий
+💯 A Tampermonkey userscript for the Russian NetSchool system (СГО) that:
+- 🔕 Hides failing grades (2)
+- ✏️ Changes threes (3) into fours (4) — even in modals!
+- 🧠 Works automatically — no clicks needed
 
-> Сделан с заботой о твоих нервах перед родителями 😎
-
----
-
+> Made to save your nerves before your parents find out 😎
 
 ---
 
-## 🛠️ Установка
+## 🛠️ Installation
 
-1. Установи [Tampermonkey](https://www.tampermonkey.net/)
-2. Нажми **"Создать новый скрипт"**
-3. Вставь содержимое [этого файла](./script.user.js)
-4. Сохрани — готово!
+1. Install [Tampermonkey](https://www.tampermonkey.net/)
+2. Click **"Create a new script"**
+3. Paste the content of [this file](./script.user.js)
+4. Save — that's it!
 
 ---
 
-## 🌐 Работает на
+## 🌐 Works on
 
 - `https://netschool.edu22.info/app/school/studentdiary/`
 
 ---
 
-## ⚠️ Внимание
+## ⚠️ Disclaimer
 
-📌 Этот скрипт **ничего не меняет в системе СГО** — он только **визуально прячет/заменяет** оценки в браузере. Учителя, администрация и родители всё ещё видят настоящие оценки.
+📌 This script **does not modify anything on the SGO server side** — it only **visually hides or replaces grades** in your browser. Teachers, administrators, and parents will still see the real grades.
 
 ---
 
-## 🤖 Автор
+## 🤖 Author
 
-UXImprover — с заботой о будущем ✨  
-[GitHub профайл](https://github.com/UXImprover)  
+UXImprover — building a better future ✨  
+[GitHub Profile](https://github.com/UXImprover)
+

@@ -2,7 +2,7 @@
 
 💯 A Tampermonkey userscript for the Russian NetSchool system (СГО) that:
 - 🔕 Hides failing grades (2)
-- ✏️ Changes threes (3) into fours (4) — even in modals!
+- ✏️ Changes threes (3) into fours (4) — even in modals windows!
 - 🧠 Works automatically — no clicks needed
 
 > Made to save your nerves before your parents find out 😎
